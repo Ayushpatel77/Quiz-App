@@ -6,7 +6,7 @@ These applications allow users to test their knowledge in different topics while
 
 Versions Overview:-
 
-1. Quiz(Simple)
+1. Simple quiz
 This is the most basic version of the Quiz App, designed for a straightforward user experience.
 
 Features:
@@ -16,7 +16,7 @@ App presents five random multiple-choice questions.
 Results are calculated and displayed to the user.
 
 
-2. Quiz(File_Type)
+2. Quiz file type
 This version enhances functionality by integrating file-based storage.
 
 Features:
