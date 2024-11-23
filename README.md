@@ -6,7 +6,7 @@ These applications allow users to test their knowledge in different topics while
 
 Versions Overview:-
 
-1. Quiz (Simple)
+1. Quiz(Simple)
 This is the most basic version of the Quiz App, designed for a straightforward user experience.
 
 Features:
@@ -16,7 +16,7 @@ App presents five random multiple-choice questions.
 Results are calculated and displayed to the user.
 
 
-2. Quiz (File_Type)
+2. Quiz(File_Type)
 This version enhances functionality by integrating file-based storage.
 
 Features:
@@ -27,7 +27,7 @@ App presents five random multiple-choice questions.
 Quiz results are calculated and stored in the same user_data.txt file for record-keeping.
 
 
-3. Quiz (DBMS_Type)
+3. Quiz(Database_Type)
 This is the most advanced version of the Quiz App, utilizing a database for storing user credentials and quiz results.
 
 Features:
